@@ -1,0 +1,6 @@
+name = "InternetTime"
+uuid = "149c4a6f-e22d-4fb1-8ac3-d89976ac645b"
+version = "0.1.0"
+author = ["Bill Janssen <janssen@parc.com>"]
+
+[deps]
